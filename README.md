@@ -1,4 +1,7 @@
-![Redzwinger better and smaller](https://github.com/Redzwinger/Redzwinger/assets/102427149/aba9faf0-43d4-4c58-9ad3-815ee79e29cd)
+
+![splashshortrdz](https://github.com/Redzwinger/Redzwinger/assets/102427149/87140a22-dfa7-4bb0-bec3-bac4481cb575)
+
+
 <!--
 
 **Redzwinger/Redzwinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
