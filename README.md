@@ -1,5 +1,5 @@
 
-![Adobe_Post_20190314_122417](https://github.com/Redzwinger/Redzwinger/assets/102427149/ff428227-43f7-4320-a91a-55c32e505934)
+![Logo 2 transparent](https://github.com/Redzwinger/Redzwinger/assets/102427149/2710d2bf-4a2a-470b-a8b1-30b0165a8b5b)
 
 I do stuff :)
 <!--
