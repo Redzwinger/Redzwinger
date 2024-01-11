@@ -1,9 +1,4 @@
 
-
-
-https://github.com/Redzwinger/Redzwinger/assets/102427149/42337850-bd01-4a06-b8e8-85a574d17d94
-
-
 <!--
 **Redzwinger/Redzwinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
