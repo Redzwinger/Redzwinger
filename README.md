@@ -1,5 +1,6 @@
-
+![Redzwinger better and smaller](https://github.com/Redzwinger/Redzwinger/assets/102427149/aba9faf0-43d4-4c58-9ad3-815ee79e29cd)
 <!--
+
 **Redzwinger/Redzwinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
