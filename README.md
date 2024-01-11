@@ -1,5 +1,7 @@
+
 I do stuff :)
-![Logo 2 transparent](https://github.com/Redzwinger/Redzwinger/assets/102427149/2710d2bf-4a2a-470b-a8b1-30b0165a8b5b) 
+
+![Redzwinger_a_light_yellow_canvas_with_a_slightly_coarse_texture_aee4b051-dc78-426e-ae11-e864beff2c99(1)](https://github.com/Redzwinger/Redzwinger/assets/102427149/e3cabf46-0fb8-44db-a68a-726cb0e0fc50)
 
 <!--
 
