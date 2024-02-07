@@ -1,8 +1,6 @@
 
 <img align="left" width="300" height="300" src="https://github.com/Redzwinger/Redzwinger/assets/102427149/e3cabf46-0fb8-44db-a68a-726cb0e0fc50"> I do stuff :)
 
-![RDZ transparent white](https://github.com/Redzwinger/Redzwinger/assets/102427149/28c085a1-de99-4021-ae19-af4106d4e7ec)
-
 <!--
 
 **Redzwinger/Redzwinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
