@@ -1,7 +1,7 @@
 
 <img align="left" width="300" height="300" src="https://github.com/Redzwinger/Redzwinger/assets/102427149/e3cabf46-0fb8-44db-a68a-726cb0e0fc50"> I do stuff :) 
 
-Note: My repositories will remain private until I have a solid Alpha version of that particular project.
+Note: Some of my repositories will remain private until I have a solid, usable version of that particular project :P
 
 <!--
 
