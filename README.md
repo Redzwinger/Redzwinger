@@ -1,17 +1,8 @@
-
-<img align="left" width="300" height="300" src="https://github.com/Redzwinger/Redzwinger/assets/102427149/e3cabf46-0fb8-44db-a68a-726cb0e0fc50"> I do stuff :) 
-
+I do stuff :) 
 
 
+<img width="2560" height="1440" alt="Adobe_Post_20190314_122417" src="https://github.com/user-attachments/assets/ef186e28-6d13-4159-9da9-0e3d205b422c" />
 
-
-
-
-
-
-
-
-Note: Some of my repositories will remain private until I have a solid, usable version of that particular project :P
 
 <!--
 
